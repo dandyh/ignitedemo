@@ -35,3 +35,4 @@ var account0 = web3.eth.accounts[0];
 var account1 = web3.eth.accounts[1];
 metaCoin.sendCoin(account1, 1000, {from: account0});
 metaCoin.getBalance.call(account0);
+//test
